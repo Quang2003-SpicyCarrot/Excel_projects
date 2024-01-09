@@ -1,7 +1,8 @@
 # Sale Metrics with Jung Ready Master - Quang Dong Nguyen  
+by: Quang Dong Nguyen  
+provided by: Jung Ready Master  
 
 ## Task 1: Data Cleaning and Preparation with Excel  
-
 
 The client provided Sales Metrics with a "78#" dataset, which includes variables:
 - Fees Status: Status of enrolled courses.
@@ -20,7 +21,8 @@ The client provided Sales Metrics with a "78#" dataset, which includes variables
 - Consultant: Consists of members of the Consultant Team.
 
 
-## Task 2: Data Insights and Dashboard
+## Task 2: Data Insights and Dashboard  
+
 Using the existing dataset, Research for meaningful insights from dataset. In building this recommendation, you need to create a dashboard presentation which outlines and visualises the data exploration process and discovered insights.
 
 Some business context to remind when presenting the findings:
