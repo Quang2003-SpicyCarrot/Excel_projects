@@ -1,9 +1,18 @@
 
 # Internship with KPMG - Quang (Wade) Dong Nguyen  
-by: Quang Dong Nguyen  
-provided by: KPMG - Forage  
+by: [Quang Dong Nguyen](https://github.com/Quang2003-SpicyCarrot)  
+provided by: [Forage](https://www.theforage.com/dashboard)
 
-## Task 1: Data Quality Assessment  
+![banner](Task%201%20-%20To%20Central%20Rocket%20Pty%20Ltd/Sprocket_central_logo.png)  
+
+## Table of Content:
+- [Question](#question)
+- [Review of the Results](#review-of-results)
+
+<br></br>
+
+## Question
+### Task 1: Data Quality Assessment  
 
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
@@ -24,22 +33,22 @@ You may use programs like Excel, Google Sheets, Tableau, Power BI. Feel free to 
 
 
 
-### Check Data Quality based on the Data Quality Framework Table
+#### Check Data Quality based on the Data Quality Framework Table
 Below is a list of the Data Quality dimensions our team may use to evaluate a dataset. Some of these terms are common to the whole industry, so you may find more information and clarity on these terms by searching online.
 
 
 | Standard Data Quality Dimensions |	             |
 | ---------------------------------| :-------------: |
-| Correct Values        	   | Accuracy        |
-| Data Fields with Values 	   | Completeness    |
+| Correct Values        	       | Accuracy        |
+| Data Fields with Values 	       | Completeness    |
 | Values Free from Contradition	   | Consistency     |
-| Values up to Date 		   | Currency        |
+| Values up to Date 		       | Currency        |
 | Data Items with Value Meta-Data  | Relevancy       |
 | Data Containing Allowable Values | Validity        |
 | Records that are Duplicated      | Uniqueness      |
 
 ---
-## Task 2: Data Insights  
+### Task 2: Data Insights  
 
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 
@@ -62,7 +71,7 @@ Tips: You may source external data from the ABS / Census to add additional varia
 
 
 ---
-## Task 3: Data Insights and Presentation  
+### Task 3: Data Insights and Presentation  
 
 The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
 
@@ -71,10 +80,6 @@ Visualisations such as interactive dashboards often help us highlight key findin
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
 
 As this is not a KPMG branded deliverable, please find attached a client logo for incorporation.
-
-![Sprocket_central_logo] (C:\Users\dongn\DongFile\dong;s junior (WSU)\GitFilesForSchool\ExcelFiles\Internship KPMG\Task 1 - To Central Rocket Pty Ltd\sprocket_central_logo.png)
-
-
 It is important to keep in mind the business context when presenting your findings:
 
 What are the trends in the underlying data?
@@ -84,6 +89,16 @@ What additional external datasets may be useful to obtain greater insights into 
 Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
 
 
-Here are some resources to support you:
-[Power BI | Power Platform] (https://www.microsoft.com/en-us/power-platform/products/power-bi/)  
-[A basic tutorial on how to use PowerBI] (https://www.youtube.com/watch?v=e2wDqspleNk&ab_channel=MelvinL)
+Here are some resources to support you:  
+[Power BI | Power Platform](https://www.microsoft.com/en-us/power-platform/products/power-bi/)  
+[A basic tutorial on how to use PowerBI](https://www.youtube.com/watch?v=e2wDqspleNk&ab_channel=MelvinL)
+
+<br></br>
+
+## Review of the Results
+- As for [the letter to the Sprocket Central Lty Ptd](Task%201%20-%20To%20Central%20Rocket%20Pty%20Ltd/To%20Sprocket%20Central%20Pty%20Ltd.docx), it is sorted into the folder "Task 1 - To central Rocket Pty Ltd"
+- The [Powerpoint presentation](Task%202%20-%20PowerPoint%20Presentation/Task%202%20Presentation.pptx) is sorted into the folder "Task 2 - PowerPoint Presentation"
+- And finally the [Dashboard](Task%203%20-%20Dashboard%20with%20Excel/KPMG%20Task%202%20-%20Version%203.xlsx) with Excel will be stored in the third folder "Task 3 - Dashboard with Excel"
+
+This section will give a quick glance of the result as to which of the 1000 customers are to be chosen as the most potential customer.  
+![img1](Task%203%20-%20Dashboard%20with%20Excel/top1000customer.png)
