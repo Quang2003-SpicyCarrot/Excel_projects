@@ -67,7 +67,7 @@ Tips: Raw data fields may be transformed into other calculated fields for modell
 Tips: You may source external data from the ABS / Census to add additional variables that may help support your model. 
 
 **You can include statistics from external sources:**
-[Statistics | Australian Bureau of Statistics] (https://www.abs.gov.au/statistics?opendocument&ref=topBar)
+[Statistics | Australian Bureau of Statistics](https://www.abs.gov.au/statistics?opendocument&ref=topBar)
 
 
 ---
